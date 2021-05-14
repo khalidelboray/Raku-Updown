@@ -1,0 +1,19 @@
+{
+  "name": "Updown",
+  "description": "updown.io API",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Khalid Elboray"
+  ],
+  "auth": "github:khalidelboray",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Updown": "lib/Updown.pm6"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "source-url": "https://github.com/khalidelboray/raku-updown"
+}
